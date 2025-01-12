@@ -28,6 +28,7 @@ import NewsSlider from "@/Components/Home/NewsSlider";
 export default function Home() {
   return (
     <>
+    {/* test push */}
       <div className="pt-16 lg:pt-20">
         <Banner />
         <Service />
