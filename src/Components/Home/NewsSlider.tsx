@@ -121,7 +121,7 @@ const NewsSlider = () => {
                     data?.map((item: any, i: number) => {
                         return (
                             <>
-                                <div className="px-8">
+                                <div className="px-8" key={i}>
                                     <div className="bg-gray-100 text-center justify-items-center">
                                         <Image src={item?.image} alt="img" className="w-48 h-48" />
                                     </div>

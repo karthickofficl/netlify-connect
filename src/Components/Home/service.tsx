@@ -23,7 +23,7 @@ const Service = () => {
                 <div className="container mx-auto">
                     <div className="text-center">
                         <h5 className="txt_green font-bold">Réputé</h5>
-                        <h2 className="text-white font-bold">Les spécialistes à votre service</h2>
+                        <h2 className=" font-bold">Les spécialistes à votre service</h2>
                     </div>
                 </div>
                 <div className="bg-gray-100 mt-4 py-10 px-4 sm:px-20">
